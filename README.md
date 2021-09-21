@@ -1,0 +1,3 @@
+# Calority
+
+track calories locally
